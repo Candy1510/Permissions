@@ -1,0 +1,21 @@
+2024-09-07 17:54:01.124 [info] 
+
+
+
+
+2024-09-07 17:54:01.131 [info] Extension host agent started.
+2024-09-07 17:54:12.868 [info] [172.16.0.1][7d8e956d][ManagementConnection] New connection established.
+2024-09-07 17:54:15.531 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-09-07 17:54:16.066 [info] [172.16.0.1][fb95ae28][ExtensionHostConnection] New connection established.
+2024-09-07 17:54:16.123 [info] [172.16.0.1][fb95ae28][ExtensionHostConnection] <73> Launched Extension Host Process.
+2024-09-07 17:54:18.648 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-09-07 17:54:19.363 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-09-07 17:54:19.378 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-09-07 17:54:19.626 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-09-07 17:54:21.538 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-09-07 17:54:21.958 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-09-07 17:54:23.681 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-09-07 17:54:26.686 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-09-07 18:01:52.473 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-09-07 18:01:52.488 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-09-07 18:01:52.502 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
