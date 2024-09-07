@@ -39,6 +39,5 @@
     "database-client.telemetry.usesOnlineServices": false,
     "omnisharp.projectFilesExcludePattern": "**/node_modules/**,**/.git/**,**/bower_components/**,**/startercode/**,**/.local/**",
     "omnisharp.sdkPath": "/opt/.dotnet/sdk/8.0.301",
-    "workbench.sideBar.location": "right",
-    "workbench.editor.empty.hint": "hidden"
+    "workbench.sideBar.location": "right"
 }
