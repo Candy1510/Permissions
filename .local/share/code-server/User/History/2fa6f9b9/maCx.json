@@ -41,6 +41,5 @@
     "omnisharp.sdkPath": "/opt/.dotnet/sdk/8.0.301",
     "workbench.sideBar.location": "right",
     "workbench.editor.empty.hint": "hidden",
-    "git.enableSmartCommit": true,
-    "git.autofetch": true
+    "git.enableSmartCommit": true
 }
